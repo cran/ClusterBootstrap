@@ -1,0 +1,14 @@
+704dfe548c114386e889181f44d3f3e3 *DESCRIPTION
+46326e9a99fec5fa773dca203f121441 *NAMESPACE
+c2ce5dabb622de8b5969ce68728e63c8 *R/additional_exports.R
+0e1224803f8c5709b4c86f388500f871 *R/clusbootglm.R
+8b524c9ba73187f647732615fc0aa88e *R/clusbootglm_internals.R
+cf734be2f31c85ddae3dfe35f2288b63 *R/clusbootglm_s3_methods.R
+d99a0ed6457299e067a97f562494007f *R/opposites-data.R
+30b82bad29efe192598981cc30b87a3d *data/opposites.rda
+4fe06cb815da19c5b8bfd00ca657d43e *man/clusbootglm.Rd
+e884fa743ec340a20e70709dfbd2639d *man/clusbootsample.Rd
+39509907f34dacf3123df87b716979f7 *man/coef.clusbootglm.Rd
+65816e5ed48d1a27c00b5714f1110269 *man/confint.clusbootglm.Rd
+21da32565ee4225c5e5ce46fa4eb9bbc *man/opposites.Rd
+7fda6d7acf4f179e04ffc7a315dffc76 *man/summary.clusbootglm.Rd
