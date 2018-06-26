@@ -1,8 +1,8 @@
 Package: ClusterBootstrap
 Title: Analyze Clustered Data with Generalized Linear Models using the
         Cluster Bootstrap
-Date: 2018-04-18
-Version: 0.9.9
+Date: 2018-06-26
+Version: 1.0.0
 Authors@R: c(person(given = "Mathijs", family = "Deen",
                     role  = c("aut", "cre"),
                     email = "m.l.deen@fsw.leidenuniv.nl"),
@@ -17,8 +17,8 @@ Maintainer: Mathijs Deen <m.l.deen@fsw.leidenuniv.nl>
 LazyData: true
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2018-04-18 15:46:55 UTC; mathijs
+Packaged: 2018-06-26 15:24:15 UTC; mathijs
 Author: Mathijs Deen [aut, cre],
   Mark de Rooij [aut]
 Repository: CRAN
-Date/Publication: 2018-04-18 16:26:15 UTC
+Date/Publication: 2018-06-26 15:39:06 UTC

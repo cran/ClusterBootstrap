@@ -1,10 +1,10 @@
-79fde95f5b3acfae84c07be6c54f0e87 *DESCRIPTION
+b2c54487b388d979e6ef38e6cc9712e0 *DESCRIPTION
 46326e9a99fec5fa773dca203f121441 *NAMESPACE
-491e6af52ed8094e7b956957123a4110 *NEWS
+9423d720c7c0235cc881ea0b4c446296 *NEWS
 b615d769776aae002b8a3a5c7fa1bcaa *R/additional_exports.R
 1de59bdfd044c44f5e6aefaada7bfb02 *R/clusbootglm.R
 8b524c9ba73187f647732615fc0aa88e *R/clusbootglm_internals.R
-da0d31b22e15fd818ef7148c56ed8317 *R/clusbootglm_s3_methods.R
+23a4560bcac39d498c1db4baec20ba69 *R/clusbootglm_s3_methods.R
 2307a9bff8e03ae79f692a0acf1c4d8f *R/medication-data.R
 d99a0ed6457299e067a97f562494007f *R/opposites-data.R
 53da2377d6d4a0b70396bb04ebe82b76 *data/medication.rda
@@ -15,4 +15,4 @@ e884fa743ec340a20e70709dfbd2639d *man/clusbootsample.Rd
 b3b24dfb2b1e972713729cf463b644be *man/confint.clusbootglm.Rd
 783c51d2bc948166103b5e7b81ed9ebb *man/medication.Rd
 21da32565ee4225c5e5ce46fa4eb9bbc *man/opposites.Rd
-8de5660ae6938955b01bebfc42235e32 *man/summary.clusbootglm.Rd
+0a558e2e1ec4354c84af99596ebdb48b *man/summary.clusbootglm.Rd
